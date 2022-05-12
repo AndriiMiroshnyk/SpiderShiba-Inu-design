@@ -1,0 +1,64 @@
+/* -------------------------------------------------------------------------
+ * SF Pro Display Regular
+ * ------------------------------------------------------------------------- */
+
+@font-face {
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/sf-pro-display-regular.woff2') format('woff2'),
+         url('../fonts/sf-pro-display-regular.woff') format('woff'),
+         url('../fonts/sf-pro-display-regular.ttf') format('truetype');
+}
+
+/* -------------------------------------------------------------------------
+ * SF Pro Display Medium
+ * ------------------------------------------------------------------------- */
+
+@font-face {
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 500;
+    src: url('../fonts/sf-pro-display-medium.woff2') format('woff2'),
+         url('../fonts/sf-pro-display-medium.woff') format('woff'),
+         url('../fonts/sf-pro-display-medium.ttf') format('truetype');
+}
+
+/* -------------------------------------------------------------------------
+ * SF Pro Display Semibold
+ * ------------------------------------------------------------------------- */
+
+@font-face {
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 600;
+    src: url('../fonts/sf-pro-display-semibold.woff2') format('woff2'),
+         url('../fonts/sf-pro-display-semibold.woff') format('woff'),
+         url('../fonts/sf-pro-display-semibold.ttf') format('truetype');
+}
+
+/* -------------------------------------------------------------------------
+ * SF Pro Display Bold
+ * ------------------------------------------------------------------------- */
+
+@font-face {
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 700;
+    src: url('../fonts/sf-pro-display-bold.woff2') format('woff2'),
+         url('../fonts/sf-pro-display-bold.woff') format('woff'),
+         url('../fonts/sf-pro-display-bold.ttf') format('truetype');
+}
+
+/* -------------------------------------------------------------------------
+ * SF Pro Display Heavy
+ * ------------------------------------------------------------------------- */
+
+@font-face {
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 800;
+    src: url('../fonts/sf-pro-display-heavy.woff2') format('woff2'),
+         url('../fonts/sf-pro-display-heavy.woff') format('woff'),
+         url('../fonts/sf-pro-display-heavy.ttf') format('truetype');
+}
